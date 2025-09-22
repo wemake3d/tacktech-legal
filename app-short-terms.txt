@@ -1,0 +1,56 @@
+TackTech – Terms & Privacy Summary
+
+By using TackTech, you agree to the following:
+
+1. Age & Accounts
+
+You must be 13 or older.
+
+Keep your login information secure; you are responsible for all activity under your account.
+
+2. How We Use Your Data
+
+We collect name, email, uploaded photos, horse and saddle info, and basic usage data.
+
+Data is stored and processed using Firebase (login, analytics, cloud storage) and Cloudinary (photo storage).
+
+We do not sell or rent your personal information.
+
+3. Data Retention
+
+Your data is stored while your account is active.
+
+When you delete your account, your data will be removed within 6 months, except for legal, security, or fraud prevention reasons.
+
+You can request deletion anytime by contacting modernhorsesolutions@gmail.com
+.
+
+4. Hardware Disclaimer
+
+Optional TackTech hardware is an informational tool only, not a medical device.
+
+You are responsible for safe use. We are not liable for injury or damage from the hardware.
+
+5. Intellectual Property & App Use
+
+Don’t copy, modify, or distribute our app or content without permission.
+
+Use the app only legally and as intended; don’t hack or disrupt it.
+
+6. Liability & Warranties
+
+TackTech and hardware are provided “as-is.”
+
+We are not liable for indirect, incidental, or consequential damages.
+
+7. Updates & Legal
+
+Terms and Privacy Policy may change; continued use means you accept updates.
+
+These Terms are governed by Virginia law.
+
+8. Full Policies
+
+Read the full Privacy Policy here: [Privacy Policy Link]
+
+Read the full Terms of Service here: [Terms of Service Link]
