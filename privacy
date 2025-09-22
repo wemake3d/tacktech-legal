@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TackTech Privacy Policy</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; color: #222; }
+    h1, h2 { color: #333; }
+    a { color: #1a73e8; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    ul { margin-left: 20px; }
+  </style>
+</head>
+<body>
+
+  <h1>Privacy Policy</h1>
+  <p><strong>Effective Date:</strong> September 21, 2025</p>
+
+  <p>TackTech (“App”) is provided by <strong>Modern Horse Solutions LLC</strong> (“Company”, “we”, “our”, or “us”), developed in collaboration with <strong>WeMake3D</strong>. We are committed to protecting your privacy and being transparent about how we handle your information.</p>
+
+  <h2>1. Information We Collect</h2>
+  <ul>
+    <li><strong>Personal Information:</strong> Name, email address, and account login credentials.</li>
+    <li><strong>User-Provided Content:</strong> Photos you upload, horse and saddle management information, and other profile details.</li>
+    <li><strong>Device & Usage Information:</strong> Automatically collected data such as device type, operating system, and app usage statistics.</li>
+    <li><strong>Third-Party Data Handling:</strong> TackTech uses <strong>Firebase</strong> (authentication, analytics, cloud storage) and <strong>Cloudinary</strong> (photo storage and processing). These services may collect information as described in their respective privacy policies.</li>
+  </ul>
+
+  <h2>2. How We Use Information</h2>
+  <ul>
+    <li>Provide, operate, and improve TackTech features.</li>
+    <li>Store and manage your uploaded horse and saddle data.</li>
+    <li>Enable account registration, login, and customer support.</li>
+    <li>Ensure security and prevent misuse.</li>
+    <li>Communicate with you about updates, support, or new features.</li>
+  </ul>
+  <p>We <strong>do not sell or share your personal information</strong> with third parties for marketing purposes.</p>
+
+  <h2>3. Data Retention & Deletion</h2>
+  <ul>
+    <li>Your personal information and uploaded content are stored as long as your account remains active.</li>
+    <li>If you request account deletion, your data will be removed <strong>within 6 months</strong> after deletion, retained only as needed for legal and compliance purposes.</li>
+    <li>You may contact us at <strong>modernhorsesolutions@gmail.com</strong> to request deletion of your account and data at any time.</li>
+  </ul>
+
+  <h2>4. Data Security</h2>
+  <p>We use industry-standard practices to safeguard your data, including Firebase and Cloudinary security measures. However, no system is 100% secure, and we cannot guarantee absolute protection.</p>
+
+  <h2>5. Third-Party Services</h2>
+  <p>TackTech relies on trusted third-party providers:</p>
+  <ul>
+    <li><strong>Firebase (by Google LLC):</strong> Authentication, analytics, and data storage. <a href="https://firebase.google.com/support/privacy" target="_blank">Privacy Policy</a></li>
+    <li><strong>Cloudinary:</strong> Image storage and processing. <a href="https://cloudinary.com/privacy" target="_blank">Privacy Policy</a></li>
+  </ul>
+  <p>These providers may process your information in accordance with their own policies.</p>
+
+  <h2>6. Children’s Privacy</h2>
+  <p>TackTech is <strong>not intended for children under 13</strong>. We do not knowingly collect information from children under 13. If you believe a child has provided personal data, contact us so we can remove it.</p>
+
+  <h2>7. Your Privacy Rights</h2>
+  <p>Depending on your location, you may have rights to:</p>
+  <ul>
+    <li>Access, update, or delete your personal information.</li>
+    <li>Request a copy of your data.</li>
+    <li>Restrict or object to certain processing.</li>
+  </ul>
+  <p>Contact us at <strong>modernhorsesolutions@gmail.com</strong> to exercise your rights.</p>
+
+  <h2>8. Updates to this Policy</h2>
+  <p>We may update this Privacy Policy from time to time. Any changes will be posted here with a new <strong>Effective Date</strong>. Continued use of TackTech after changes means you accept the updated policy.</p>
+
+  <h2>9. Contact Us</h2>
+  <p>If you have questions or concerns about this Privacy Policy or data handling, please contact:</p>
+  <p><strong>Modern Horse Solutions LLC</strong><br>
+  Email: <a href="mailto:modernhorsesolutions@gmail.com">modernhorsesolutions@gmail.com</a></p>
+
+</body>
+</html>
